@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Alper Yıldırım - 22102033 https://github.com/1AlperYildirim/1AlperYildirim
+Counter Strike
+=======
+Alper Yıldırım - 22102033 https://github.com/1AlperYildirim/1AlperYildirim
+>>>>>>> new_information
